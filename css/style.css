@@ -942,7 +942,7 @@ ul {
         font-size: 1em;
     }
     .btn {
-        width: 55%;
+        width: 55% !important;
     }
 }
 
