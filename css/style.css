@@ -926,19 +926,23 @@ ul {
         width: 100%;
         display: flex;
         justify-content: center;
+        margin: 0rem;
     }
     .firstBox {
-        left: 17%;
-        width: 57%;
+        left: 14%;
+        width: 73%;
     }
     .secondBox {
-        width: 55%;
+        width: 80%;
     }
     #footer {
         padding: 3em 0 2em 0;
     }
     #footer .icons {
         font-size: 1em;
+    }
+    .btn {
+        width: 45%;
     }
 }
 
