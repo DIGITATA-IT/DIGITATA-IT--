@@ -982,6 +982,9 @@ ul {
         text-align: center;
         margin-left: 5em;
     }
+    .btn {
+        width: 60% !important;
+    }
 }
 
 @media only screen and (min-width:320px) {
